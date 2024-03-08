@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c4b90560.css",
-    "main.js": "/static/js/main.c8642471.js",
-    "static/js/453.b789f419.chunk.js": "/static/js/453.b789f419.chunk.js",
-    "index.html": "/index.html",
-    "main.c4b90560.css.map": "/static/css/main.c4b90560.css.map",
-    "main.c8642471.js.map": "/static/js/main.c8642471.js.map",
-    "453.b789f419.chunk.js.map": "/static/js/453.b789f419.chunk.js.map"
+    "main.css": "/tinh-tien-app/static/css/main.c4b90560.css",
+    "main.js": "/tinh-tien-app/static/js/main.1066d7d8.js",
+    "static/js/453.b789f419.chunk.js": "/tinh-tien-app/static/js/453.b789f419.chunk.js",
+    "index.html": "/tinh-tien-app/index.html",
+    "main.c4b90560.css.map": "/tinh-tien-app/static/css/main.c4b90560.css.map",
+    "main.1066d7d8.js.map": "/tinh-tien-app/static/js/main.1066d7d8.js.map",
+    "453.b789f419.chunk.js.map": "/tinh-tien-app/static/js/453.b789f419.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4b90560.css",
-    "static/js/main.c8642471.js"
+    "static/js/main.1066d7d8.js"
   ]
 }
